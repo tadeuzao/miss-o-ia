@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Isso é assustador!",
-                afirmacao: "afirmacao"
+                afirmacao: "no inicio ficou com medo do que essa tecnologia pode fazer"
             },
             {
                 texto: "Isso é maravilhoso!",
-                afirmacao: "afirmacao"
+                afirmacao: "quis saber como usar IA no seu dia a dia"
             }          
            
         ]
@@ -24,11 +24,11 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Utilizar uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento",
-                afirmacao:"afirmacao"
+                afirmacao:"Conseguiu utilizar a IA para buscar informações úteis de forma rápida e prática"
             },
             {
                 texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao:"afirmacao"
+                afirmacao:"Preferiu recorrer a fontes tradicionais e reflexões pessoais para compor seu trabalho"
             }
         ]
     },
@@ -37,11 +37,11 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao:"afirmacao"
+                afirmacao:"Viu a necessidade de debater sobre a proteção dos empregos e o impacto social da automação"
             },
             {
                 texto:"Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao:"afirmacao"
+                afirmacao:"Acredita que as novas tecnologias podem impulsionar novas oportunidades no mercado de trabalho"
             }
            
         ]
@@ -51,11 +51,11 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao:"afirmacao"
+                afirmacao:"Optou por usar ferramentas manuais para expressar suas próprias habilidades artísticas"
             },
             {
                 texto:"Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao:"afirmacao"
+                afirmacao:"Aproveitou os geradores automáticos para traduzir suas ideias visuais de forma ágil"
             }
            
         ]
@@ -65,11 +65,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao:"afirmacao"
+                afirmacao:"Compreendeu que a IA serve como apoio, mas o olhar humano e a revisão crítica são indispensáveis"
             },
             {
                 texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao:"afirmacao"
+                afirmacao:"Acabou se tornando muito dependente da tecnologia, aceitando as respostas geradas sem contestar"
             }
            
            
